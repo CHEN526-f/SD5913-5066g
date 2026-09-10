@@ -20,6 +20,8 @@ The next revision removed too much personal expression. I challenged that versio
 
 I also asked Codex to reduce theoretical name-dropping and repetitive sentence patterns. The essay needed to explain how its judgments followed from experience and reasoning. Familiar philosophical concepts and forceful language could not do that work by themselves.
 
+When reviewing the essay for a more concrete personal example, Codex suggested replacing the hypothetical poster and classification-threshold experiments with a description of the Schotter programming exercise already in this repository. I rejected that suggestion. The Schotter exercise belongs to a separate code assignment; weaving it into the essay would conflate two different pieces of work and feel forced. The concrete example I added instead was my own Global Game Jam Shanghai experience, a real event from my practice that answers the assignment's question about why I am here.
+
 ## Source checking and limits
 
 The online searches and source-page checks in this workflow were primarily carried out by Codex. It consulted a museum article, publisher descriptions and bibliographic records, the speaker's description of his talk, and Google's product information. These checks establish source existence and support limited summaries; they should not be confused with my independently reading the books in full or watching the complete video. The essay uses paraphrases and personal analysis, without direct quotations from these sources.
